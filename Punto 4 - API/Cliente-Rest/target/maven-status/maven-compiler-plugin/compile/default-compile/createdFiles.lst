@@ -1,3 +1,3 @@
-co\unicauca\products\cliente\rest\ClienteRest.class
-co\unicauca\products\cliente\rest\NewJerseyClient.class
-co\unicauca\products\cliente\rest\Product.class
+co/unicauca/products/cliente/NewJerseyClient.class
+co/unicauca/products/cliente/Product.class
+co/unicauca/products/cliente/ClienteMain.class
